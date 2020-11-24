@@ -1,0 +1,17 @@
+
+TY  - JOUR
+AU  - Deza Monica
+AU  - Litwok Daniel
+TI  - Do Nighttime Driving Restrictions Reduce Criminal Participation Among Teenagers? Evidence From Graduated Driver Licensing
+JO  - Journal of Policy Analysis and Management
+JA  - J. Pol. Anal. Manage.
+VL  - 35
+IS  - 2
+SN  - 0276-8739
+UR  - https://doi.org/10.1002/pam.21893
+DO  - doi:10.1002/pam.21893
+SP  - 306
+EP  - 332
+PY  - 2016
+AB  - Abstract To date, all 50 states and the District of Columbia have a three?stage Graduated Driver Licensing (GDL) system that phases in driving privileges for teenagers. GDL laws effectively impose a statutory driving curfew and a limitation on the number of passengers in motor vehicles. Both the timing of motor vehicle access and a limitation on the peer influences available in a motor vehicle could significantly affect the production of criminal behavior. Using the Uniform Crime Reports 1995 to 2011 and a triple?differences approach, we find that the implementation of GDL decreased criminal participation by 6 percent among teenagers ages 16 and 17, as measured by arrests. These effects are larger in magnitude in states where the nighttime driving curfew is required for a longer period of time. We also show that GDL plays an important role in reducing crime in periods of low gasoline prices, a time when teen driver prevalence would otherwise have been high. These results suggest that there is another benefit to states for adopting GDL laws and provide insight into the production of teenage crime.
+ER  - 

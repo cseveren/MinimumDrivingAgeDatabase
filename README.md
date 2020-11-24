@@ -1,5 +1,8 @@
-# Minimum Driving Age Database
-Christopher Severen ([website](https://cseveren.github.io)) with assistance from  PJ Elliott.
+﻿# Minimum Driving Age Database
+
+Version 0.1a (11/24/2020 and before)
+
+Christopher Severen ([website](https://cseveren.github.io)), with assistance from  PJ Elliott and support from the Research Library at the Federal Reserve Bank of Philadelphia.
 
 This is a database of Minimum Driving Ages in the United States that is meant cover the formative driving years of most current drivers. Currently, the database attempts to accurately cover state driving license regulations from 1967 to 2015. The database is meant to make publically available a supplement to other sources of data about driver licensing ages (see below) that have more limited coverage.
 
@@ -14,7 +17,7 @@ There are two primary data sources:
 
 We also pull a few statistics from other sources to help fill in gaps in FHWA and IIHS reporting; pdf’s are included where permitted:
 
-3. Williams, Allan F., Anne T. McCartt, and Laurel B. Sims. "History and current status of state graduated driver licensing (GDL) laws in the United States." *Journal of Safety Research* 56 (2016): 9-15.
+3. Williams, Allan F., Anne T. McCartt, and Laurel B. Sims. "History and current status of state graduated driver licensing (GDL) laws in the United States." *Journal of Safety Research* 56 (2015): 9-15.
 
 4. Williams, Allan F., and David F. Preusser. "Night driving restrictions for youthful drivers: a literature review and commentary." *Journal of Public Health Policy* 18, no. 3 (1997): 334-345.
 
