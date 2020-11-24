@@ -2,6 +2,8 @@
 
 Christopher Severen ([website](https://cseveren.github.io)), with assistance from  PJ Elliott and support from the Research Library at the Federal Reserve Bank of Philadelphia.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4289086.svg)](https://doi.org/10.5281/zenodo.4289086)
+
 This is a database of Minimum Driving Ages in the United States that is meant cover the formative driving years of most current drivers. Currently, the database attempts to accurately cover state driving license regulations from 1967 to 2015. The database is meant to make publically available a supplement to other sources of data about driver licensing ages (see below) that have more limited coverage.
 
 The primary data file for public use is `/output/assembled_panel.xlsx`, and suggested code for using this is under `/postprocessing/` (currently only Stata code is provided; I hope to provide R code as well). 
