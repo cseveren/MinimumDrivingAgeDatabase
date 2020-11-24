@@ -1,7 +1,5 @@
 ﻿# Minimum Driving Age Database
 
-Version 0.1a (11/24/2020 and before)
-
 Christopher Severen ([website](https://cseveren.github.io)), with assistance from  PJ Elliott and support from the Research Library at the Federal Reserve Bank of Philadelphia.
 
 This is a database of Minimum Driving Ages in the United States that is meant cover the formative driving years of most current drivers. Currently, the database attempts to accurately cover state driving license regulations from 1967 to 2015. The database is meant to make publically available a supplement to other sources of data about driver licensing ages (see below) that have more limited coverage.
