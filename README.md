@@ -6,9 +6,11 @@ Christopher Severen ([website](https://cseveren.github.io)), with assistance fro
 
 This is a database of Minimum Driving Ages in the United States that is meant cover the formative driving years of most current drivers. Currently, the database attempts to accurately cover state driving license regulations from 1967 to 2015. The database is meant to make publically available a supplement to other sources of data about driver licensing ages (see below) that have more limited coverage.
 
+The primary data file for public use is `/output/assembled_panel.xlsx`, and suggested code for using this is under `/postprocessing/` (currently only Stata code is provided; I hope to provide R code as well). 
+
 ### Sources
 
-Sources used are list below. This is currently only a partial list; a more complete list will be compiled shortly. 
+Sources used are list below. This is currently only a partial list; a more complete list yet needs to be compiled from the supporting materials. 
 
 There are two primary data sources:
 1. The Federal Highway Administration’s (FHWA) *Driver License Administration Requirements and Fees* booklets. These were published roughly biennially; we have found and processed volumes from 1967, 1972, 1980, 1982, 1984, 1986, 1988, 1994 and 1996. Where there are changes in between these years, we have tried to fill in the gaps with various sources, including legislative documents, state department of transportation records, and newspaper articles. 
