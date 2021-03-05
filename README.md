@@ -1,6 +1,8 @@
 ﻿# Minimum Driving Age Database
 
-Christopher Severen ([website](https://cseveren.github.io)), with assistance from  PJ Elliott and support from the Research Library at the Federal Reserve Bank of Philadelphia.
+Christopher Severen ([website](https://cseveren.github.io)), with assistance from PJ Elliott and Nathan Schor, and support from the Research Library at the Federal Reserve Bank of Philadelphia. 
+
+***Disclaimer: These data are being circulated for discussion and research purposes, and are being provided "as is" without warranty of any kind. The author (Christopher Severen) cannot guarantee completeness or accuracy of the data. These data are not a product of, nor are they endorsed by, the Federal Reserve Bank of Philadelphia or the Federal Reserve System. By using these data you acknowledge and agree that your use of these data is at your own risk and that none of the parties involved in creating, producing or delivering the data are liable for any loss, injury, claim, liability or damage of any kind resulting in any way from: (a) any errors in or omissions from the data; (b) your use of the data or any conclusions you draw from it, regardless of whether you received any assistance from the Federal Reserve Bank of Philadelphia, its employees, or the author with regard to the data; or (c) the content of this repository, including anything caused by any viruses, bugs or malfunctions. Opinions expressed in the data do not necessarily reflect official positions of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.***
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4289086.svg)](https://doi.org/10.5281/zenodo.4289086)
 
